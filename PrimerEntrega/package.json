@@ -1,11 +1,11 @@
 {
-  "name": "entregable3",
+  "name": "primerentrega",
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon src/server.js",
     "dev": "node server.js"
   },
   "keywords": [],
